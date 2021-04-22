@@ -8,7 +8,9 @@
 
 
 
-Skills: Vue/React/Node.js, JavaScript, Java, Python, C#/
+Skills: Vue/React/Node.js, JavaScript, Java, Python, C#/C
+
+CEO of @LibertasStudios
 
 - 🔭 I’m currently working on FullStack Devs 
 - 🌱 I’m currently learning Azure´s A.I. 
