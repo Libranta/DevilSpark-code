@@ -1,20 +1,21 @@
-# Think, Forget, Do.
-
-There are usually many things that people tell about themselves. But I like to get straight to the point.
-
+### Think, Forget, Do. 
+#### While the world has something to think about, may tech be there to help.
 ### What I like. 
 - A nice cup of warm coffee ☕
 - Anime 💖
 - Videogames, and music that may be forbidden in 11 states. 
+- I also like to code sometimes. 
 
-### What I prefer. 
-- When people know how to communicate. 
-- A clear deal 
-- And a nice chair. 
 
-### What I know. 
-Basically nothing, But boy I know a lot about being comfy.
-Ah, and ppl say I´m a fast learner (If that means something) I can learn any language and forget what I learned the next day, but I like to do code. 
 
-P.D: También tengo un servidor de [Discord](https://discord.com/invite/kzwy5FH) que nada tiene que ver con lo que hago y un hermoso [Podcast](https://open.spotify.com/show/0hJlPgmcwCMAfgCTiownb2?si=jeZzbTlGTvy_jf2MqJAfaA)
-Que ninguno tiene algo que ver, pero son cosas que me hacen feliz. 
+Skills: Vue/React/Node.js, JavaScript, Java, Python, C#/
+
+- 🔭 I’m currently working on FullStack Devs 
+- 🌱 I’m currently learning Azure´s A.I. 
+- 👯 I’m looking to collaborate on ... Everything? 
+- 🤔 I’m looking for help with .. All things? 
+- ⚡ Fun fact: I run a Cozy Discord Server and a Magical Podcast 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devilspark-code)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devil.spark/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DevilSpark_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/show/0hJlPgmcwCMAfgCTiownb2?si=TRB2CnGITBGM5NUYBMLiYw)  
+
