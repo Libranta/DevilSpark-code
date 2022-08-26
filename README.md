@@ -13,7 +13,7 @@ Skills: Vue/React/Node.js, JavaScript, Java, Kotlin, Python, C#/C
 CEO of @LibertasStudios
 
 - 🔭 I’m currently working on FullStack Devs 
-- 🌱 I’m currently developing Android O.S. oriented
+- 🌱 I’m currently developing Android O.S. oriented apps
 - 👯 I’m looking to collaborate on ... Everything? 
 - 🤔 I’m looking for help with .. All things? 
 - ⚡ Fun fact: I run a Cozy Discord Server and a Magical Podcast 
